@@ -11,11 +11,11 @@ Centos6系のvim7.2
 ###導入方法###
 Linux系向けにインストールシェルスクプトも作成しています。
 
-# git clone https://github.com/nagane/easytask.git
+\# git clone https://github.com/nagane/easytask.git
 
-# cd easytask
+\# cd easytask
 
-# sh easytask_install.sh
+\# sh easytask_install.sh
 
 
 ###使い方###
@@ -42,6 +42,6 @@ after
 
 [D] sampletask <execute time>
 
-注意。[]の間に必ず半角スペースをつけて下さい
-X[]
+注意。[]の間に必ず半角スペースをつけて下さい。  
+X[]  
 O[ ]
