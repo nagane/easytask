@@ -29,18 +29,18 @@ before
 
 after
 
-[D] sampletask <execute time>
+[D] sampletask \<execute time\>
 
 チェックのついたタスクを戻すことも可能です
 コマンドモードでTSKコマンドを実行します。
 
 before
 
-[D] sampletask <execute time>
+[D] sampletask \<execute time\>
 
 after
 
-[D] sampletask <execute time>
+[ ] sampletask
 
 注意。[]の間に必ず半角スペースをつけて下さい。  
 X[]  
